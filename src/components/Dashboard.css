@@ -1,0 +1,14 @@
+h1{ 
+    text-align: center;
+    padding-top: 10px;
+}
+table {
+    text-align: center;
+}
+thead {
+    color: brown;
+    font-display: bold;
+}
+tbody {
+    color: darkblue;
+}
